@@ -15,8 +15,8 @@ p {
 	margin: 25px;
 }
 h1 {
-	font-family: "DK Northumbria";
-	font-size: 36px;
+	font-family: "tox Typewriter";
+	font-size: 50px;
 	text-align: center;
 }
 
@@ -90,11 +90,11 @@ h3 {
 
 #article {
 	height: auto;
-	width: 950px;
+	width: 960px;
 	float: left;
-	background-color: #FFF;
-	border: thick solid #C30;
 	text-align: center;
+	background-image: url(../RESOURCES/bk_article.jpg);
+	background-repeat: repeat-y;
 }
 #photos {
 	float: right;
