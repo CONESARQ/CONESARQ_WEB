@@ -7,6 +7,12 @@ body {
 	background-repeat: no-repeat;
 }
 
+/fuentes personalizadas/
+@font-face{
+	font-family:"tox Typewriter"
+	src:url(fonts/Tox%20Typewriter.ttf) format ("truetype")
+	}
+
 p {
 	font-family: "Courier New", Courier, monospace;
 	font-size: 18px;
