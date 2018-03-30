@@ -9,7 +9,7 @@ body {
 
 fuentes personalizadas
 @font-face{
-	font-family:"tox Typewriter"
+	font-family: "tox Typewriter"
 	src:url(fonts/Tox_Typewriter.ttf) format ("truetype")
 	font-family: "tox Typewriter";
 	}
