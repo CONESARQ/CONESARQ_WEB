@@ -7,12 +7,6 @@ body {
 	background-repeat: no-repeat;
 }
 
-fuentes personalizadas
-@font-face{
-	font-family: "tox Typewriter"
-	src:url(fonts/Tox_Typewriter.ttf) format ("truetype")
-	font-family: "tox Typewriter";
-	}
 
 p {
 	font-family: "Courier New", Courier, monospace;
@@ -105,6 +99,22 @@ h3 {
 	background-image: url(../RESOURCES/bk_article.jpg);
 	background-repeat: repeat-y;
 }
+
+#wel {
+	margin-top: 60px;
+}
+#orga {
+	margin-top: 60px;
+}
+
+#prox {
+	margin-top: 60px;
+}
+
+#xcon {
+	margin-top: 60px;
+}
+
 #photos {
 	float: right;
 	height: 200px;
