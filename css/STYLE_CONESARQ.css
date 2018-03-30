@@ -7,10 +7,11 @@ body {
 	background-repeat: no-repeat;
 }
 
-/fuentes personalizadas/
+fuentes personalizadas
 @font-face{
 	font-family:"tox Typewriter"
-	src:url(fonts/Tox%20Typewriter.ttf) format ("truetype")
+	src:url(fonts/Tox_Typewriter.ttf) format ("truetype")
+	font-family: "tox Typewriter";
 	}
 
 p {
@@ -23,7 +24,7 @@ p {
 
 
 h1 {
-	font-family: "tox Typewriter"; src:url(fonts/Tox%20Typewriter.ttf);
+	font-family: "tox Typewriter"; src:url(fonts/Tox_Typewriter.ttf);
 	font-size: 50px;
 	text-align: center;
 }
